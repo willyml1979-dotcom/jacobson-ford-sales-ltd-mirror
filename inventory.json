@@ -1,6 +1,6 @@
 {
   "dealership": "Jacobson Ford Sales Ltd",
-  "generated_at": "2026-10-26T01:10:24",
+  "generated_at": "2026-10-26T04:32:52",
   "vehicle_count": 285,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -207,10 +207,10 @@
     },
     {
       "name": "2023FordF-150",
-      "vin": "1FTFW1E8XPFB03799",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/322cd27d0a70.html",
+      "vin": "1FTFW1E8XPFC71958",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/45b83f55af7f.html",
       "condition": "used",
-      "price": 63958.0,
+      "price": 61025.0,
       "price_currency": "CAD"
     },
     {
