@@ -1,16 +1,16 @@
 {
   "dealership": "Jacobson Ford Sales Ltd",
-  "generated_at": "2026-10-26T09:42:49",
-  "vehicle_count": 293,
+  "generated_at": "2026-11-16T23:04:03",
+  "vehicle_count": 292,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2012FordFiesta",
-      "vin": "3FADP4CJ2CM174877",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/2ad806356381.html",
+      "name": "2011RAM3500",
+      "vin": "3D73Y4CL7BG518162",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/d57df2dd47b5.html",
       "condition": "used",
-      "price": 13665.0,
+      "price": 53844.0,
       "price_currency": "CAD"
     },
     {
@@ -22,19 +22,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014FordExplorer",
+      "vin": "1FM5K8D86EGB45665",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/084671fd088b.html",
+      "condition": "used"
+    },
+    {
       "name": "2014FordF-150",
       "vin": "1FTFW1ET3EFC46028",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/c71b796db7cc.html",
       "condition": "used",
       "price": 20446.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016FordEscape",
-      "vin": "1FMCU9GX2GUC69267",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/c7a6efb1572a.html",
-      "condition": "used",
-      "price": 15958.0,
       "price_currency": "CAD"
     },
     {
@@ -46,19 +44,27 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018FordTransit",
-      "vin": "1FDBF8ZM6JKA07743",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/37f30272ba9b.html",
-      "condition": "used",
-      "price": 44055.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019GRAND DESIGNSOLITUDE",
       "vin": "573FS3626K9901234",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/dc0f05ffe1d1.html",
       "condition": "used",
       "price": 69888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020ChevroletTrax",
+      "vin": "3GNCJRSB2LL201023",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/b5ecc8f97398.html",
+      "condition": "used",
+      "price": 15584.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020FordEscape",
+      "vin": "1FMCU9DZ6LUC09847",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/31a62665823e.html",
+      "condition": "used",
+      "price": 29044.0,
       "price_currency": "CAD"
     },
     {
@@ -78,6 +84,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020FordF-150",
+      "vin": "1FTEW1E45LKE76341",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/0732a9d7cd63.html",
+      "condition": "used",
+      "price": 27015.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020JeepCherokee",
       "vin": "1C4PJMBX5LD553852",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/546952373198.html",
@@ -86,35 +100,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020RAM3500",
-      "vin": "3C63R3DL2LG128188",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/87e5369cf6b2.html",
+      "name": "2021FordF-150",
+      "vin": "1FTFW1E59MFB96705",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/110b0ab6d5e1.html",
       "condition": "used",
-      "price": 61985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021FordBronco Sport",
-      "vin": "3FMCR9C65MRB38304",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/5c1fa0614bb1.html",
-      "condition": "used",
-      "price": 31038.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021FordExpedition",
-      "vin": "1FMJU1MT4MEA38869",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/270e9b527986.html",
-      "condition": "used",
-      "price": 67899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022FordF-150",
-      "vin": "1FTFW1EDXNFB27398",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/e2d45de6ce70.html",
-      "condition": "used",
-      "price": 41877.0,
+      "price": 29033.0,
       "price_currency": "CAD"
     },
     {
@@ -123,14 +113,6 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/bcc49447b619.html",
       "condition": "used",
       "price": 47855.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022FordF-150",
-      "vin": "1FTFW1E8XNKD91876",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/3af8da514794.html",
-      "condition": "used",
-      "price": 47022.0,
       "price_currency": "CAD"
     },
     {
@@ -147,14 +129,6 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/3cf2d2d7c3f7.html",
       "condition": "used",
       "price": 58040.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022JeepGladiator",
-      "vin": "1C6HJTAG4NL100712",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/134d36df6672.html",
-      "condition": "used",
-      "price": 46111.0,
       "price_currency": "CAD"
     },
     {
@@ -199,14 +173,6 @@
     },
     {
       "name": "2023FordF-150",
-      "vin": "1FTFW1E80PFA83157",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/d561e3ab7ec2.html",
-      "condition": "used",
-      "price": 62011.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023FordF-150",
       "vin": "1FTFW1E8XPFC71958",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/45b83f55af7f.html",
       "condition": "used",
@@ -215,10 +181,26 @@
     },
     {
       "name": "2023FordF-150",
-      "vin": "1FTFX1E82PKF04509",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/0231d46c7203.html",
+      "vin": "1FTFW1E8XPFB03799",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/322cd27d0a70.html",
       "condition": "used",
-      "price": 47022.0,
+      "price": 63958.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023FordF-150",
+      "vin": "1FTFW1E84PFD01911",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/e69c3cb78a06.html",
+      "condition": "used",
+      "price": 49878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023FordF-150",
+      "vin": "1FTEW1EP7PKF39620",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/08e1af6c4633.html",
+      "condition": "used",
+      "price": 42857.0,
       "price_currency": "CAD"
     },
     {
@@ -230,10 +212,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023FordF-350",
+      "vin": "1FT8W3BT5PED51364",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/b9156b734fc9.html",
+      "condition": "used",
+      "price": 84995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024ChevroletBlazer",
       "vin": "3GNKBKRS3RS143721",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/57a6e80ab6fe.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 45022.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024ChevroletSilverado 1500",
@@ -261,10 +253,10 @@
     },
     {
       "name": "2024DodgeCharger Daytona",
-      "vin": "2C3CDBCK9RR205141",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/5d6f97f37777.html",
+      "vin": "2C3CDBCKXRR205293",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/c808d5572bf4.html",
       "condition": "used",
-      "price": 54605.0,
+      "price": 51023.0,
       "price_currency": "CAD"
     },
     {
@@ -291,6 +283,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024FordEscape",
+      "vin": "1FMCU9NA6RUA80025",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/fc1d5456227b.html",
+      "condition": "used",
+      "price": 36898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordEscape",
+      "vin": "1FMCU0E14RUB40718",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/d32c75b301f9.html",
+      "condition": "used",
+      "price": 39455.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024FordExpedition",
       "vin": "1FMJU1RG5REA72693",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/5620bbb8c213.html",
@@ -308,22 +316,6 @@
     },
     {
       "name": "2024FordF-150",
-      "vin": "1FTFW3L8XRKD18642",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/476558844c57.html",
-      "condition": "used",
-      "price": 51223.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordF-150",
-      "vin": "1FTEW3LP8RFB53279",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/cf3a27f9bf8a.html",
-      "condition": "used",
-      "price": 60322.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordF-150",
       "vin": "1FTFW3L88RKE63744",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/fd2fbff0f110.html",
       "condition": "used",
@@ -336,6 +328,14 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/2eabf5ab9912.html",
       "condition": "used",
       "price": 114656.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordSuper Duty",
+      "vin": "1FT8W3BT0REF07734",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/a7831d47b9f5.html",
+      "condition": "used",
+      "price": 74587.0,
       "price_currency": "CAD"
     },
     {
@@ -377,22 +377,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025FordBronco",
-      "vin": "1FMEE8BP9SLB36320",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/4de9086bd9ba.html",
-      "condition": "used",
-      "price": 59844.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordEscape",
-      "vin": "1FMCU9GN0SUA95769",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/99671531a995.html",
-      "condition": "used",
-      "price": 34022.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025FordExplorer",
       "vin": "1FMUK8KH9SGB65774",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/2b2ee1230b51.html",
@@ -414,14 +398,6 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/4ed78f5bf844.html",
       "condition": "used",
       "price": 77605.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordF-150",
-      "vin": "1FTEW3LPXSKD31884",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/3c2aed737b9a.html",
-      "condition": "used",
-      "price": 57033.0,
       "price_currency": "CAD"
     },
     {
@@ -449,6 +425,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025FordF-150",
+      "vin": "1FTFW6LD7SFC49230",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/ec2871acbf2f.html",
+      "condition": "used",
+      "price": 94360.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025FordF-150",
+      "vin": "1FTFW4L85SFB32687",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/49340b922a13.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025FordF-550",
+      "vin": "1FDSW5HN1SEE08660",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/7b818cc364e1.html",
+      "condition": "used",
+      "price": 91850.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025FordF-550",
       "vin": "1FD0W5HT4SEC35061",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/735a3c5bc4dd.html",
@@ -465,14 +463,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025FordTransit",
-      "vin": "1FBAX9C89SKA00130",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/452718bb4c59.html",
-      "condition": "used",
-      "price": 82355.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026FordF-150",
       "vin": "1FTFW1RG9TFA54249",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/bff6dda62770.html",
@@ -481,19 +471,17 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026FordRanger",
-      "vin": "1FTER4HH0TLE09471",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/fc1ff80621d0.html",
-      "condition": "used",
-      "price": 51223.0,
-      "price_currency": "CAD"
+      "name": "2026FordF-350",
+      "vin": "1FT8W3BMXTED18251",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/4d97c8aaf0c6.html",
+      "condition": "used"
     },
     {
-      "name": "2026FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BMXTED18251",
-      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/dbd61ba97561.html",
+      "name": "2026FordMustang Mach-E",
+      "vin": "3FMTK3SU4TMA00461",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/de53f4aa07a1.html",
       "condition": "used",
-      "price": 135000.0,
+      "price": 62960.0,
       "price_currency": "CAD"
     },
     {
