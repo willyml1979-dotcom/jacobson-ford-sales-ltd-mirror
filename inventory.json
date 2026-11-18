@@ -1,7 +1,7 @@
 {
   "dealership": "Jacobson Ford Sales Ltd",
-  "generated_at": "2026-11-18T06:07:22",
-  "vehicle_count": 334,
+  "generated_at": "2026-11-18T12:40:53",
+  "vehicle_count": 343,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -487,7 +487,7 @@
       "vin": "3FTCW8PA7SRA47876",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/ca0f001d8abe.html",
       "condition": "new",
-      "price": 53995.0,
+      "price": 49600.0,
       "price_currency": "CAD"
     },
     {
@@ -555,12 +555,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026FordBronco Sport",
-      "vin": "3FMCR9BN3TRF11976",
+      "name": "All Inventory",
+      "vin": "3FMCR9DA5TRE03742",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/478d1b14cbc3.html",
-      "condition": "new",
-      "price": 47005.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "2026FordBronco Sport",
@@ -603,12 +601,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026FordBronco Sport",
-      "vin": "3FMCR9BN9TRF12274",
+      "name": "All Inventory",
+      "vin": "3FMCR9DA5TRE03742",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/bd988ad929e8.html",
-      "condition": "new",
-      "price": 42185.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "2026FordBronco Sport",
@@ -847,12 +843,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026FordF-150",
-      "vin": "1FTFW5L87TKE01058",
+      "name": "All Inventory",
+      "vin": "1FTFW1RG9TFA54249",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/36d613860f8f.html",
-      "condition": "new",
-      "price": 93221.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "2026FordF-150",
@@ -1368,15 +1362,39 @@
     },
     {
       "name": "2026FordF-150",
+      "vin": "1FTFW4L84TFC28702",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/b83553f4a3c4.html",
+      "condition": "new",
+      "price": 100685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
       "vin": "1FTFW4L85TFC29390",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/61eb23f5ed92.html",
       "condition": "new"
     },
     {
       "name": "2026FordF-150",
+      "vin": "1FTFW4L85TFB43724",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/29aac34c812d.html",
+      "condition": "new",
+      "price": 97149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
       "vin": "1FTFW5LD5TFB89041",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/eca0b153f974.html",
       "condition": "new"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTEW2LP0TKF16554",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/4951e2455837.html",
+      "condition": "new",
+      "price": 69960.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026FordF-350",
@@ -1771,6 +1789,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8JH4VGA06764",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/8beabd281db0.html",
+      "condition": "new",
+      "price": 64894.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027FordF-150",
       "vin": "1FTFW5LD9VFA10406",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/8dbf65806233.html",
@@ -1952,6 +1978,14 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/48bcc818f572.html",
       "condition": "new",
       "price": 85330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-150",
+      "vin": "1FTFW3L55VKD43514",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/4e79d5066229.html",
+      "condition": "new",
+      "price": 83115.0,
       "price_currency": "CAD"
     },
     {
@@ -2376,10 +2410,26 @@
     },
     {
       "name": "2027FordF-350",
+      "vin": "2FT8W3BM8VBA18089",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/e3f240f31ed7.html",
+      "condition": "new",
+      "price": 103794.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-350",
       "vin": "2FT8W3BM0VBA16949",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/84ed50a994ae.html",
       "condition": "new",
       "price": 130999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-350",
+      "vin": "2FT8W3BM2VBA18945",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/745b970c52b7.html",
+      "condition": "new",
+      "price": 140580.0,
       "price_currency": "CAD"
     },
     {
@@ -2442,6 +2492,22 @@
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/a3815430e8e3.html",
       "condition": "new",
       "price": 134049.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-350",
+      "vin": "2FT8W3BM7VBA21176",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/04b5f85e0b7b.html",
+      "condition": "new",
+      "price": 129413.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF-350",
+      "vin": "2FT8W3BM7VBA21081",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/new/227992929d9a.html",
+      "condition": "new",
+      "price": 99105.0,
       "price_currency": "CAD"
     },
     {
