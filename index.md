@@ -1,6 +1,6 @@
 # Jacobson Ford Sales Ltd.
 
- dealership in Salmon Arm. AI-readable inventory mirror, about 331 vehicles.
+ dealership in Salmon Arm. AI-readable inventory mirror, about 334 vehicles.
 
 - Official website: https://www.jacobsonford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/

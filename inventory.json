@@ -1,7 +1,7 @@
 {
   "dealership": "Jacobson Ford Sales Ltd",
-  "generated_at": "2026-11-17T20:37:38",
-  "vehicle_count": 331,
+  "generated_at": "2026-11-18T06:07:22",
+  "vehicle_count": 334,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -18,7 +18,7 @@
       "vin": "JYAVP27N0CA001500",
       "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/1ebf3b45f4b0.html",
       "condition": "used",
-      "price": 12200.0,
+      "price": 9205.0,
       "price_currency": "CAD"
     },
     {
@@ -92,6 +92,12 @@
       "condition": "used",
       "price": 27644.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2022ChevroletSilverado 3500HD",
+      "vin": "1GC3YTEY5NF124114",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/59a3d0e80eed.html",
+      "condition": "used"
     },
     {
       "name": "2022FordF-150",
@@ -188,6 +194,12 @@
       "condition": "used",
       "price": 42857.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023FordF-150",
+      "vin": "1FTFW1EDXPFC76929",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/34606785858b.html",
+      "condition": "used"
     },
     {
       "name": "2023FordF-350",
@@ -331,6 +343,12 @@
       "condition": "used",
       "price": 86985.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024ToyotaTundra",
+      "vin": "5TFJA5DB0RX160877",
+      "url": "https://willyml1979-dotcom.github.io/jacobson-ford-sales-ltd-mirror/used/8e0e082f0855.html",
+      "condition": "used"
     },
     {
       "name": "2025AcuraADX",
